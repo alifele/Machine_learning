@@ -1,0 +1,21 @@
+Here you can find the list of sources that you can get real world data sets from:
+
+
+
+http://archive.ics.uci.edu/ml/index.php
+
+https://www.kaggle.com/datasets
+
+https://registry.opendata.aws/
+
+http://dataportals.org/
+
+https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex
+
+https://www.quandl.com/
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
+https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+
+https://www.reddit.com/r/datasets/
